@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*Body Tag Style */
+body{
+    font-family: poppins;
+}
+
+/* Font Color  */
+.text-dark--1{
+    color: rgb(77,77,77);
+}
+.text-primary-color{
+    color: rgb(210,41,100);
+}
+.text-primary-dark{
+    color: rgb(123,30,52);
+}
+.text-feature-light{
+    color: rgb(159,159,159);
+}
+.text-feature-dark{
+    color: #4d4d4d;
+}
+/* bg color */
+.feature-bg-color{
+    background-color: rgb(252,247,240);
+}
+.feature-company-bg{
+    background-color: rgb(240,234,235);
+}
+.btn-primary-bg{
+    background-image: linear-gradient(to right, rgb(223,151,69)  ,rgb(210,41,99));
+}
+.footer-bg{
+    background-color: rgb(123,30,52);
+}
+
+/* Font Size */
+.text_heading-size{
+    font-size: 1.2rem;
+}
+.text-feature-sm{
+    font-size: .7rem;
+    height: 25px;
+}
+.text-feature-md{
+    font-size: 14px;
+}
+.text-feature-lg{
+    font-size: 16px;
+}
+.h-60{
+    height: 60px;
+}
+.fw-bold{
+    font-weight: 800;
+}
+/* Custom Img Size */
+.img-featured{
+    width: 5rem;
+    height: auto;
+}
+/* Icon Size */
+.icon-feature-size{
+    width: 2rem;
+    height: 1.2rem;
+}
+.icon-box{
+    background-color: white;
+}
+.icon{
+    width: 1.5rem;
+    height: 1.3rem;
+    fill: #4d4d4d;
+}
+.icon-1{
+    fill: white;
+}
+/* icon color */
+.icon-feature-company-color{
+    fill: rgb(226,99,39);
+}
+/* Gutter Size */
+.col{
+    border-radius: 10px;
+}
+.h-200px{
+    height: 200px;
+}
+.opacity-25{
+    opacity: 25%;
+}
+.course-card-wrapper{
+    background-color: white;
+}
+.me-6{
+    margin-right: 8rem;
+    margin-top: 1.5rem;
+}
+.mr-1{
+    left: 70%;
+    top: 20%;
+}
+.h-44{
+    height: 44px;
+}
